@@ -37,9 +37,11 @@ Learning and Exploring!
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 </br>
+
 ## 📊 Github Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakharguptaujjain&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-</br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakharguptaujjain&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-</br>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=prakharguptaujjain&theme=tokyonight" alt
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=prakharguptaujjain&show_icons=true&locale=en&layout=compact" alt="Most Used Languages"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=prakharguptaujjain&show_icons=true&locale=en" alt="GitHub Stats" />
+
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=prakharguptaujjain&theme=tokyonight" alt="GitHub Streak" />
+
