@@ -1,4 +1,11 @@
-## Hello world! I am Prakhar Gupta 🌻
+<table>
+  <tr>
+    <td>Visitor no.</td>
+    <td><img src="https://profile-counter.glitch.me/prakharguptaujjain/count.svg" alt="vistor count" height="50" /></td>
+  </tr>
+</table>
+
+## Hello World! I am Prakhar Gupta 🌻
 <!-- I am a Junior pusuing B.Tech in the field of Artificial Intelligence and Data Science at IIT Jodhpur.  -->
 Learning and Exploring!
 
@@ -44,4 +51,3 @@ Learning and Exploring!
 <img src="https://github-readme-stats.vercel.app/api?username=prakharguptaujjain&show_icons=true&locale=en" alt="GitHub Stats" />
 
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=prakharguptaujjain&theme=tokyonight" alt="GitHub Streak" />
-
