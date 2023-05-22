@@ -12,7 +12,7 @@ Learning and Exploring!
 
 ## Connect with me on 👇
 
-<a href="https://www.linkedin.com/in/prakharguptaujjain/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40"></a>
+<a href="https://www.linkedin.com/in/prakharguptaujjain/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30"></a>
 
 <a href="https://codeforces.com/profile/PrakharGupta21" target="_blank">
 <img src="https://img.shields.io/badge/CodeForces--darkgreen" ;></img></a>
@@ -29,15 +29,17 @@ Learning and Exploring!
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiMuFqNDaO68lzz6_aCIgmXB4ptKAFjYP6TuHEKJxBrw&s" alt="Shell" height="40" style="vertical-align:top; margin:4px">
   <!-- leave line -->
   </br>
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Kali_Linux_2.0_wordmark.svg/1920px-Kali_Linux_2.0_wordmark.svg.png" alt="Kali Linux" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRme6g1isUGPuaK93QADw0mgv1QWQ--HmHRxRUcFqc&s" alt="Burp Suite" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="nmap" height="40" style="vertical-align:top; margin:4px">
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="git" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" height="40" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-
+</br>
 ## 📊 Github Stats
-
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakharguptaujjain&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
+</br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakharguptaujjain&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+</br>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=prakharguptaujjain&theme=tokyonight" alt
