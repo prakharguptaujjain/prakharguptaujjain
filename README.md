@@ -19,7 +19,7 @@ Learning and Exploring!
 
 ## Connect with me on 👇
 
- [<img src='images\linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/prakharguptaujjain/)  [<img src='images\codeforces.png' alt='codeforces' height='40'>](https://codeforces.com/profile/PrakharGupta21)  [<img src='images\codechef.png' alt='codechef' height='40'>](https://www.codechef.com/users/prakhargupta99) [<img src='images\LeetCode_logo_white_no_text.svg.png' alt='leetcode' height='40'>](https://leetcode.com/prakharguptaujjain/)  
+ [<img src='images\linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/prakharguptaujjain/)  [<img src='images\codeforces.png' alt='codeforces' height='40'>](https://codeforces.com/profile/prakharguptaujjain1)  [<img src='images\codechef.png' alt='codechef' height='40'>](https://www.codechef.com/users/prakhargupta99) [<img src='images\LeetCode_logo_white_no_text.svg.png' alt='leetcode' height='40'>](https://leetcode.com/prakharguptaujjain/)  
 
 
 ## 🚀 Languages and Tools
